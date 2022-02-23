@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Yurenko/currency_converter.git/static/css/main.483b31c3.css",
+    "main.js": "/Yurenko/currency_converter.git/static/js/main.55ff96d7.js",
+    "index.html": "/Yurenko/currency_converter.git/index.html",
+    "main.483b31c3.css.map": "/Yurenko/currency_converter.git/static/css/main.483b31c3.css.map",
+    "main.55ff96d7.js.map": "/Yurenko/currency_converter.git/static/js/main.55ff96d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.483b31c3.css",
+    "static/js/main.55ff96d7.js"
+  ]
+}
